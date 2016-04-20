@@ -504,6 +504,7 @@
 	left: 1752px;
 	-webkit-transform: rotate(135deg);
 	-moz-transform: rotate(135deg);
+	-ms-transform: rotate(135deg);
 }
 #ove087{
 	top: 761px;
@@ -633,6 +634,7 @@
 	left: 1277px;
 	-webkit-transform: rotate(229deg);
 	-moz-transform: rotate(229deg);
+	-ms-transform: rotate(229deg);
 }
 #ove115{
 	top: 1486px;
@@ -651,12 +653,14 @@
 	left: 1268px;
 	-webkit-transform: rotate(45deg);
 	-moz-transform: rotate(45deg);
+	-ms-transform: rotate(45deg);
 }
 #ove118{
 	top: 1158px;
 	left: 971px;
 	-webkit-transform: rotate(229deg);
 	-moz-transform: rotate(229deg);
+	-ms-transform: rotate(229deg);
 }
 #ove119{
 	top: 937px;
@@ -678,6 +682,7 @@
 	left: 2404px;
 	-webkit-transform: rotate(135deg);
 	-moz-transform: rotate(135deg);
+	-ms-transform: rotate(135deg);
 }
 #ove123{
 	top: 507px;
