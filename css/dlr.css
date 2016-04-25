@@ -396,6 +396,7 @@
 	left: 3435px;
 	-webkit-transform: rotate(45deg);
 	-moz-transform: rotate(45deg);
+	-ms-transform: rotate(45deg);
 }
 #dlr053{
 	top: 1511px;
@@ -406,12 +407,14 @@
 	left: 3166px;
 	-webkit-transform: rotate(270deg);
 	-moz-transform: rotate(270deg);
+	-ms-transform: rotate(270deg);
 }
 #dlr055{
 	top: 1471px;
 	left: 3465px;
 	-webkit-transform: rotate(150deg);
 	-moz-transform: rotate(150deg);
+	-ms-transform: rotate(150deg);
 }
 #dlr056{
 	display: block;
@@ -474,6 +477,7 @@
 	z-index: -10 !important;
 	-webkit-transform: rotate(135deg);
 	-moz-transform: rotate(135deg);
+	-ms-transform: rotate(135deg);
 }
 #dlr066{
 	top: 1514px;
@@ -487,6 +491,7 @@
 	width: 9px;
 	-webkit-transform: rotate(2deg);
 	-moz-transform: rotate(2deg);
+	-ms-transform: rotate(2deg);
 }
 
 

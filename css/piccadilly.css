@@ -466,18 +466,21 @@
 	left: 220px;
 	-webkit-transform: rotate(332deg);
 	-moz-transform: rotate(332deg);
+	-ms-transform: rotate(332deg);
 }
 #pic079{
 	top: 2164px;
 	left: 180px;
 	-webkit-transform: rotate(417deg);
 	-moz-transform: rotate(417deg);
+	-ms-transform: rotate(417deg);
 }
 #pic080{
 	top: 2137px;
 	left: 153px;
 	-webkit-transform: rotate(138deg);
 	-moz-transform: rotate(138deg);
+	-ms-transform: rotate(138deg);
 }
 #pic081{
 	top: 2033px;
